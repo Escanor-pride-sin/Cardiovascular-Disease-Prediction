@@ -9,26 +9,7 @@ Evaluate model performance and provide insights for healthcare applications.
 # Dataset
 The data used is from corizo, containing patient attributes and cardiovascular disease diagnosis labels. Data preprocessing, cleaning, and feature engineering were done prior to modeling.
 
-# Installation
-To run this project locally, ensure you have Python and required libraries installed:
-
-bash
-pip install -r requirements.txt
-Or install main dependencies individually (versions may vary):
-
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyter notebook
-Usage
-
-# Clone the repository:
-bash
-git clone https://github.com/Escanor-pride-sin/Cardiovascular-Disease-Prediction.git
-Navigate to the project directory.
-
+# Usage
 Open the Jupyter notebook Cardiovascular Disease Analysis.ipynb and run the cells to explore data, train models, and visualize results.
 
 # Project Structure
