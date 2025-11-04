@@ -1,4 +1,4 @@
-##About The Project##
+**About The Project**
 This project analyzes cardiovascular disease data to identify key risk factors and predict the likelihood of disease onset using various machine learning algorithms. The dataset contains patient medical records including features such as age, blood pressure, cholesterol levels, and lifestyle indicators.
 
 #The goals of this project are to:#
